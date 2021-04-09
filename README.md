@@ -1,2 +1,2 @@
 # SuperLeague
-SuperLeague Repository
+SuperLeague Repository for learning purpose.
